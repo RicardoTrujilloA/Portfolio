@@ -1,5 +1,5 @@
 <svg width="241" height="338" viewBox="0 0 241 338" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M241 0H0V338H241V0Z" fill="white"/>
+<rect width="241" height="338" fill="white"/>
 <path d="M85.7516 236.612H79.1351V239.915H85.7516V236.612Z" fill="black"/>
 <path d="M85.7516 242.818H79.1351V246.121H85.7516V242.818Z" fill="black"/>
 <path d="M85.7516 248.923H79.1351V252.226H85.7516V248.923Z" fill="black"/>
@@ -88,7 +88,7 @@
 <path d="M65.2004 182.865H79.1351" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
 <path d="M82.8444 102.793H88.4583" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
 <path d="M82.8444 100.792H70.9147V104.895H82.8444V100.792Z" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linejoin="round"/>
-<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="4.6326" letter-spacing="0em"><tspan x="73.1274" y="99.7694">10k</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="4.6326" font-weight="bold" letter-spacing="0em"><tspan x="73.1274" y="99.7694">10k</tspan></text>
 <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="5.6841" letter-spacing="0em"><tspan x="46.4271" y="136.485">-      +</tspan></text>
 <path d="M65.2004 103.594C65.6434 103.594 66.0024 103.236 66.0024 102.793C66.0024 102.351 65.6434 101.993 65.2004 101.993C64.7575 101.993 64.3984 102.351 64.3984 102.793C64.3984 103.236 64.7575 103.594 65.2004 103.594Z" fill="black"/>
 <path d="M52.6692 109.699C56.4895 109.699 59.5865 106.607 59.5865 102.793C59.5865 98.9792 56.4895 95.8872 52.6692 95.8872C48.849 95.8872 45.752 98.9792 45.752 102.793C45.752 106.607 48.849 109.699 52.6692 109.699Z" fill="black"/>
@@ -115,9 +115,9 @@
 <path d="M50.0627 152.938V158.843" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
 <path d="M47.2558 153.739L50.0628 148.934L52.8698 153.739H47.2558Z" fill="black"/>
 <path d="M56.8797 182.864H43.346C41.742 182.864 40.4388 181.563 40.4388 179.962V162.146C40.4388 160.545 41.742 159.243 43.346 159.243H56.8797C58.4837 159.243 59.7869 160.545 59.7869 162.146V179.962C59.7869 181.563 58.4837 182.864 56.8797 182.864Z" stroke="black" stroke-width="0.75" stroke-miterlimit="10"/>
-<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="5.6841" letter-spacing="0em"><tspan x="42.5973" y="166.499">LM35</tspan></text>
-<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="4.6326" letter-spacing="0em"><tspan x="43.8083" y="181.351">VOUT</tspan></text>
-<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="4.6326" letter-spacing="0em"><tspan x="65.1358" y="276.724">5V</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="5.6841" font-weight="bold" letter-spacing="0em"><tspan x="42.5973" y="166.499">LM35</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="4.6326" font-weight="bold" letter-spacing="0em"><tspan x="43.8083" y="180.106">VOUT</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="4.6326" font-weight="bold" letter-spacing="0em"><tspan x="65.1358" y="276.724">5V</tspan></text>
 <path d="M50.0627 182.865V188.67" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
 <path d="M50.0627 197.678V201.381" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
 <path d="M79.1351 201.381H50.0627" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
@@ -232,20 +232,20 @@
 <path d="M111.115 115.805V109.9" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
 <path d="M114.022 115.004L111.115 119.909L108.308 115.004H114.022Z" fill="black"/>
 <text fill="black" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="5.6841" font-weight="bold" letter-spacing="0em"><tspan x="108.95" y="87.9239">LCD LM016L</tspan></text>
-<text transform="translate(105.504 99.2161) rotate(-90)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="3.0193" letter-spacing="0em"><tspan x="0" y="2.54673">VSS</tspan></text>
-<text transform="translate(109.138 99.2161) rotate(-90)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="3.0193" letter-spacing="0em"><tspan x="0" y="2.54673">VDD</tspan></text>
-<text transform="translate(112.957 99.2161) rotate(-90)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="3.0193" letter-spacing="0em"><tspan x="0" y="2.54673">VEE</tspan></text>
-<text transform="translate(119.781 99.2161) rotate(-90)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="3.0193" letter-spacing="0em"><tspan x="0" y="2.54673">RS</tspan></text>
-<text transform="translate(123.124 99.2161) rotate(-90)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="3.0193" letter-spacing="0em"><tspan x="0" y="2.54673">RW</tspan></text>
-<text transform="translate(126.758 99.2161) rotate(-90)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="3.0193" letter-spacing="0em"><tspan x="0" y="2.54673">E</tspan></text>
-<text transform="translate(133.653 99.2161) rotate(-90)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="3.0193" letter-spacing="0em"><tspan x="0" y="2.54673">D0</tspan></text>
-<text transform="translate(137.314 99.2161) rotate(-90)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="3.0193" letter-spacing="0em"><tspan x="0" y="2.54673">D1</tspan></text>
-<text transform="translate(140.975 99.2161) rotate(-90)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="3.0193" letter-spacing="0em"><tspan x="0" y="2.54673">D2</tspan></text>
-<text transform="translate(144.634 99.2161) rotate(-90)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="3.0193" letter-spacing="0em"><tspan x="0" y="2.54673">D3</tspan></text>
-<text transform="translate(151.253 99.2161) rotate(-90)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="3.0193" letter-spacing="0em"><tspan x="0" y="2.54673">D4</tspan></text>
-<text transform="translate(154.913 99.2161) rotate(-90)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="3.0193" letter-spacing="0em"><tspan x="0" y="2.54673">D5</tspan></text>
-<text transform="translate(158.574 99.2161) rotate(-90)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="3.0193" letter-spacing="0em"><tspan x="0" y="2.54673">D6</tspan></text>
-<text transform="translate(162.233 99.2161) rotate(-90)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="3.0193" letter-spacing="0em"><tspan x="0" y="2.54673">D7</tspan></text>
+<text transform="translate(105.504 99.2161) rotate(-90)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="3.0193" font-weight="bold" letter-spacing="0em"><tspan x="0" y="2.54673">VSS</tspan></text>
+<text transform="translate(109.138 99.2161) rotate(-90)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="3.0193" font-weight="bold" letter-spacing="0em"><tspan x="0" y="2.54673">VDD</tspan></text>
+<text transform="translate(112.957 99.2161) rotate(-90)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="3.0193" font-weight="bold" letter-spacing="0em"><tspan x="0" y="2.54673">VEE</tspan></text>
+<text transform="translate(119.781 99.2161) rotate(-90)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="3.0193" font-weight="bold" letter-spacing="0em"><tspan x="0" y="2.54673">RS</tspan></text>
+<text transform="translate(123.124 99.2161) rotate(-90)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="3.0193" font-weight="bold" letter-spacing="0em"><tspan x="0" y="2.54673">RW</tspan></text>
+<text transform="translate(126.758 99.2161) rotate(-90)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="3.0193" font-weight="bold" letter-spacing="0em"><tspan x="0" y="2.54673">E</tspan></text>
+<text transform="translate(133.653 99.2161) rotate(-90)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="3.0193" font-weight="bold" letter-spacing="0em"><tspan x="0" y="2.54673">D0</tspan></text>
+<text transform="translate(137.314 99.2161) rotate(-90)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="3.0193" font-weight="bold" letter-spacing="0em"><tspan x="0" y="2.54673">D1</tspan></text>
+<text transform="translate(140.975 99.2161) rotate(-90)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="3.0193" font-weight="bold" letter-spacing="0em"><tspan x="0" y="2.54673">D2</tspan></text>
+<text transform="translate(144.634 99.2161) rotate(-90)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="3.0193" font-weight="bold" letter-spacing="0em"><tspan x="0" y="2.54673">D3</tspan></text>
+<text transform="translate(151.253 99.2161) rotate(-90)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="3.0193" font-weight="bold" letter-spacing="0em"><tspan x="0" y="2.54673">D4</tspan></text>
+<text transform="translate(154.913 99.2161) rotate(-90)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="3.0193" font-weight="bold" letter-spacing="0em"><tspan x="0" y="2.54673">D5</tspan></text>
+<text transform="translate(158.574 99.2161) rotate(-90)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="3.0193" font-weight="bold" letter-spacing="0em"><tspan x="0" y="2.54673">D6</tspan></text>
+<text transform="translate(162.233 99.2161) rotate(-90)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="3.0193" font-weight="bold" letter-spacing="0em"><tspan x="0" y="2.54673">D7</tspan></text>
 <path d="M208.357 212.791H188.106" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
 <path d="M210.462 218.896H188.106" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
 <path d="M208.357 137.124V212.791" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
@@ -259,10 +259,10 @@
 <path d="M183.463 124.943V128.547H185.268V124.943H183.463Z" fill="black"/>
 <path d="M187.097 124.969V128.572H188.902V124.969H187.097Z" fill="black"/>
 <path d="M190.732 124.994V128.597H192.536V124.994H190.732Z" fill="black"/>
-<text transform="translate(186.027 121.574) rotate(-90)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="3.0193" letter-spacing="0em"><tspan x="0" y="2.54673">VSS</tspan></text>
-<text transform="translate(189.688 121.574) rotate(-90)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="3.0193" letter-spacing="0em"><tspan x="0" y="2.54673">VCC</tspan></text>
-<text transform="translate(178.9 121.574) rotate(-90)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="3.0193" letter-spacing="0em"><tspan x="0" y="2.54673">TX</tspan></text>
-<text transform="translate(182.562 121.574) rotate(-90)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="3.0193" letter-spacing="0em"><tspan x="0" y="2.54673">RX</tspan></text>
+<text transform="translate(186.027 121.574) rotate(-90)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="3.0193" font-weight="bold" letter-spacing="0em"><tspan x="0" y="2.54673">VSS</tspan></text>
+<text transform="translate(189.688 121.574) rotate(-90)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="3.0193" font-weight="bold" letter-spacing="0em"><tspan x="0" y="2.54673">VCC</tspan></text>
+<text transform="translate(178.9 121.574) rotate(-90)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="3.0193" font-weight="bold" letter-spacing="0em"><tspan x="0" y="2.54673">TX</tspan></text>
+<text transform="translate(182.562 121.574) rotate(-90)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="3.0193" font-weight="bold" letter-spacing="0em"><tspan x="0" y="2.54673">RX</tspan></text>
 <path d="M180.788 137.124V128.516" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
 <path d="M184.397 135.423V128.516" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
 <path d="M188.006 133.521V128.516" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>

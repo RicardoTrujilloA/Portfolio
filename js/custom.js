@@ -79,9 +79,9 @@
 	
 	window.scrollReveal = new scrollReveal();
 
-	/* Right Click disabled 
+	/* Right Click disabled */
 	document.oncontextmenu = function(){return false}
-*/
+
 	//Navigation
 
 	var app = function () {
