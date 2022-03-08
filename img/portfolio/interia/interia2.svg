@@ -1,0 +1,287 @@
+<svg width="241" height="338" viewBox="0 0 241 338" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="241" height="338" fill="white"/>
+<path d="M165.851 287.257H101.391C94.4733 287.257 88.8593 281.652 88.8593 274.746V171.655C88.8593 164.749 94.4733 159.144 101.391 159.144H165.851C172.768 159.144 178.382 164.749 178.382 171.655V274.746C178.382 281.652 172.768 287.257 165.851 287.257Z" stroke="black" stroke-miterlimit="10"/>
+<path d="M85.7516 236.612H79.1351V239.915H85.7516V236.612Z" fill="black"/>
+<path d="M85.7516 242.818H79.1351V246.121H85.7516V242.818Z" fill="black"/>
+<path d="M85.7516 248.923H79.1351V252.226H85.7516V248.923Z" fill="black"/>
+<path d="M85.7516 255.029H79.1351V258.331H85.7516V255.029Z" fill="black"/>
+<path d="M85.7516 261.234H79.1351V264.537H85.7516V261.234Z" fill="black"/>
+<path d="M85.7516 267.339H79.1351V270.642H85.7516V267.339Z" fill="black"/>
+<path d="M85.7516 273.545H79.1351V276.848H85.7516V273.545Z" fill="black"/>
+<path d="M188.006 187.368H181.39V190.671H188.006V187.368Z" fill="black"/>
+<path d="M188.006 193.574H181.39V196.877H188.006V193.574Z" fill="black"/>
+<path d="M188.006 199.679H181.39V202.982H188.006V199.679Z" fill="black"/>
+<path d="M85.7516 170.253H79.1351V173.556H85.7516V170.253Z" fill="black"/>
+<path d="M85.7516 181.263H79.1351V184.566H85.7516V181.263Z" fill="black"/>
+<path d="M85.7516 187.368H79.1351V190.671H85.7516V187.368Z" fill="black"/>
+<path d="M188.006 211.09H181.39V214.393H188.006V211.09Z" fill="black"/>
+<path d="M188.006 217.295H181.39V220.598H188.006V217.295Z" fill="black"/>
+<path d="M85.7516 193.574H79.1351V196.877H85.7516V193.574Z" fill="black"/>
+<path d="M85.7516 199.679H79.1351V202.982H85.7516V199.679Z" fill="black"/>
+<path d="M188.006 230.407H181.39V233.71H188.006V230.407Z" fill="black"/>
+<path d="M188.006 236.612H181.39V239.915H188.006V236.612Z" fill="black"/>
+<path d="M188.006 242.718H181.39V246.02H188.006V242.718Z" fill="black"/>
+<path d="M188.006 248.923H181.39V252.226H188.006V248.923Z" fill="black"/>
+<path d="M188.006 255.029H181.39V258.331H188.006V255.029Z" fill="black"/>
+<path d="M188.006 261.234H181.39V264.537H188.006V261.234Z" fill="black"/>
+<path d="M188.006 267.339H181.39V270.642H188.006V267.339Z" fill="black"/>
+<path d="M188.006 273.545H181.39V276.848H188.006V273.545Z" fill="black"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="11.5135" font-weight="bold" letter-spacing="0em"><tspan x="88.8668" y="302.287">PIC16F887</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Text " font-size="5.6841" font-weight="bold" letter-spacing="0em"><tspan x="91.6666" y="185.044">2</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Text " font-size="5.6841" font-weight="bold" letter-spacing="0em"><tspan x="91.6666" y="173.998">1</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="5.6841" font-weight="bold" letter-spacing="0em"><tspan x="98.9799" y="173.998">MCLR/VPP</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="5.6841" font-weight="bold" letter-spacing="0em"><tspan x="98.9799" y="185.045">RA0</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Text " font-size="5.6841" font-weight="bold" letter-spacing="0em"><tspan x="91.6666" y="191.107">3</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="5.6841" font-weight="bold" letter-spacing="0em"><tspan x="168.047" y="214.829">25</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="5.6841" font-weight="bold" letter-spacing="0em"><tspan x="168.138" y="220.937">26</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="5.6841" font-weight="bold" letter-spacing="0em"><tspan x="168.047" y="234.142">19</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="5.6841" font-weight="bold" letter-spacing="0em"><tspan x="168.047" y="240.426">20</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="5.6841" font-weight="bold" letter-spacing="0em"><tspan x="168.047" y="246.528">21</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="5.6841" font-weight="bold" letter-spacing="0em"><tspan x="168.047" y="252.657">22</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="5.6841" font-weight="bold" letter-spacing="0em"><tspan x="168.047" y="258.636">27</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="5.6841" font-weight="bold" letter-spacing="0em"><tspan x="168.047" y="264.849">28</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="5.6841" font-weight="bold" letter-spacing="0em"><tspan x="168.047" y="270.925">29</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="5.6841" font-weight="bold" letter-spacing="0em"><tspan x="168.047" y="277.093">30</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Text " font-size="5.6841" font-weight="bold" letter-spacing="0em"><tspan x="91.6666" y="197.352">4</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Text " font-size="5.6841" font-weight="bold" letter-spacing="0em"><tspan x="91.6666" y="203.415">5</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="5.6841" font-weight="bold" letter-spacing="0em"><tspan x="98.9799" y="191.107">RA1</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="5.6841" font-weight="bold" letter-spacing="0em"><tspan x="155.976" y="214.919">TX</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="5.6841" font-weight="bold" letter-spacing="0em"><tspan x="156.066" y="221.027">RX</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="5.6841" font-weight="bold" letter-spacing="0em"><tspan x="98.9799" y="197.352">RA2</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="5.6841" font-weight="bold" letter-spacing="0em"><tspan x="98.9799" y="203.415">RA3</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Text " font-size="5.6841" font-weight="bold" letter-spacing="0em"><tspan x="91.6666" y="240.327">33</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="5.6841" font-weight="bold" letter-spacing="0em"><tspan x="103.481" y="240.327">RB0</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Text " font-size="5.6841" font-weight="bold" letter-spacing="0em"><tspan x="91.6666" y="246.495">34</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Text " font-size="5.6841" font-weight="bold" letter-spacing="0em"><tspan x="91.6666" y="252.591">35</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Text " font-size="5.6841" font-weight="bold" letter-spacing="0em"><tspan x="91.6666" y="258.731">36</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="5.6841" font-weight="bold" letter-spacing="0em"><tspan x="103.481" y="246.495">RB1</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="5.6841" font-weight="bold" letter-spacing="0em"><tspan x="103.481" y="252.591">RB2</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="5.6841" font-weight="bold" letter-spacing="0em"><tspan x="103.481" y="258.731">RB3</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Text " font-size="5.6841" font-weight="bold" letter-spacing="0em"><tspan x="91.6666" y="264.958">37</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="5.6841" font-weight="bold" letter-spacing="0em"><tspan x="103.481" y="264.958">RB4</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Text " font-size="5.6841" font-weight="bold" letter-spacing="0em"><tspan x="91.6666" y="271.112">38</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Text " font-size="5.6841" font-weight="bold" letter-spacing="0em"><tspan x="91.6666" y="277.266">39</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="5.6841" font-weight="bold" letter-spacing="0em"><tspan x="103.481" y="271.112">RB5</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="5.6841" font-weight="bold" letter-spacing="0em"><tspan x="103.481" y="277.266">RB6</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="5.6841" font-weight="bold" letter-spacing="0em"><tspan x="153.11" y="233.948">RD0</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="5.6841" font-weight="bold" letter-spacing="0em"><tspan x="153.11" y="240.544">RD1</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="5.6841" font-weight="bold" letter-spacing="0em"><tspan x="153.11" y="246.386">RD2</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="5.6841" font-weight="bold" letter-spacing="0em"><tspan x="153.11" y="252.541">RD3</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="5.6841" font-weight="bold" letter-spacing="0em"><tspan x="153.11" y="258.753">RD4</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="5.6841" font-weight="bold" letter-spacing="0em"><tspan x="153.11" y="264.991">RD5</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="5.6841" font-weight="bold" letter-spacing="0em"><tspan x="153.11" y="271.093">RD6</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="5.6841" font-weight="bold" letter-spacing="0em"><tspan x="153.11" y="277.184">RD7</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="5.6841" font-weight="bold" letter-spacing="0em"><tspan x="168.094" y="191.227">8</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="5.6841" font-weight="bold" letter-spacing="0em"><tspan x="168.094" y="197.303">9</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="5.6841" font-weight="bold" letter-spacing="0em"><tspan x="168.094" y="203.469">10</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="5.6841" font-weight="bold" letter-spacing="0em"><tspan x="153.157" y="191.37">RE0</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="5.6841" font-weight="bold" letter-spacing="0em"><tspan x="153.157" y="197.471">RE1</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="5.6841" font-weight="bold" letter-spacing="0em"><tspan x="153.157" y="203.561">RE2</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="6.2167" font-weight="bold" letter-spacing="0em"><tspan x="31" y="272.37">A/C</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="6.2167" font-weight="bold" letter-spacing="0em"><tspan x="31" y="216.726">Control de luces</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="6.2167" font-weight="bold" letter-spacing="0em"><tspan x="31" y="195.164">Sensor de temp</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="6.2167" font-weight="bold" letter-spacing="0em"><tspan x="31" y="93.6164">Luces autom&#xe1;ticas</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="13.6807" font-weight="bold" letter-spacing="0em"><tspan x="34.6225" y="47.1303">DIAGRAMA ESQUEM&#xc1;TICO</tspan></text>
+<path d="M65.2004 102.793V182.865" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="5.6841" font-weight="bold" letter-spacing="0em"><tspan x="35.3204" y="114.699">LDR</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="5.6841" font-weight="bold" letter-spacing="0em"><tspan x="70.2491" y="143.793">VDD</tspan></text>
+<path d="M65.2004 102.793H70.9147" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M65.2004 182.865H79.1351" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M82.8444 102.793H88.4583" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M82.8444 100.792H70.9147V104.895H82.8444V100.792Z" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linejoin="round"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="4.6326" font-weight="bold" letter-spacing="0em"><tspan x="73.1274" y="100.296">10k</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="5.6841" font-weight="bold" letter-spacing="0em"><tspan x="46.4271" y="136.038">-      +</tspan></text>
+<path d="M65.2004 103.594C65.6434 103.594 66.0024 103.236 66.0024 102.793C66.0024 102.351 65.6434 101.993 65.2004 101.993C64.7575 101.993 64.3984 102.351 64.3984 102.793C64.3984 103.236 64.7575 103.594 65.2004 103.594Z" fill="black"/>
+<path d="M52.6692 109.699C56.4895 109.699 59.5865 106.607 59.5865 102.793C59.5865 98.9792 56.4895 95.8872 52.6692 95.8872C48.849 95.8872 45.752 98.9792 45.752 102.793C45.752 106.607 48.849 109.699 52.6692 109.699Z" fill="black"/>
+<path d="M45.6518 102.794L46.955 104.595L48.96 100.792L50.8647 104.995L52.7695 100.792L54.574 104.995L56.579 100.892L58.584 104.695L59.5865 102.794" stroke="white" stroke-width="0.5" stroke-miterlimit="10" stroke-linecap="square" stroke-linejoin="round"/>
+<path d="M39.3361 102.793H45.5515" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M40.2383 105.596L35.3261 102.793L40.2383 99.991V105.596Z" fill="black"/>
+<path d="M75.7267 148.434V171.955" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M72.9197 149.235L75.7267 144.43L78.5337 149.235H72.9197Z" fill="black"/>
+<path d="M59.5865 102.793H65.2004" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M52.6692 125.814C54.2749 125.814 55.5765 124.514 55.5765 122.911C55.5765 121.308 54.2749 120.009 52.6692 120.009C51.0636 120.009 49.762 121.308 49.762 122.911C49.762 124.514 51.0636 125.814 52.6692 125.814Z" fill="#020203"/>
+<path d="M52.6692 126.214C50.8647 126.214 49.2607 124.713 49.2607 122.811C49.2607 121.01 50.7645 119.408 52.6692 119.408C54.4737 119.408 56.0777 120.91 56.0777 122.811C55.9775 124.713 54.4737 126.214 52.6692 126.214Z" fill="#020203"/>
+<path d="M52.6692 118.808C52.3685 118.808 52.168 118.607 52.168 118.307V116.806C52.168 116.506 52.3685 116.305 52.6692 116.305C52.97 116.305 53.1705 116.506 53.1705 116.806V118.307C53.1705 118.607 52.97 118.808 52.6692 118.808Z" fill="#020203"/>
+<path d="M52.6692 129.417C52.3685 129.417 52.168 129.217 52.168 128.917V127.415C52.168 127.115 52.3685 126.915 52.6692 126.915C52.97 126.915 53.1705 127.115 53.1705 127.415V128.917C53.1705 129.217 52.97 129.417 52.6692 129.417Z" fill="#020203"/>
+<path d="M58.6842 123.311H57.1805C56.8797 123.311 56.6792 123.111 56.6792 122.811C56.6792 122.511 56.8797 122.311 57.1805 122.311H58.6842C58.985 122.311 59.1855 122.511 59.1855 122.811C59.1855 123.111 58.985 123.311 58.6842 123.311Z" fill="#020203"/>
+<path d="M48.158 123.311H46.6543C46.3535 123.311 46.153 123.111 46.153 122.811C46.153 122.511 46.3535 122.311 46.6543 122.311H48.158C48.4588 122.311 48.6593 122.511 48.6593 122.811C48.6593 123.111 48.3585 123.311 48.158 123.311Z" fill="#020203"/>
+<path d="M55.8772 120.109C55.777 120.109 55.6767 120.109 55.5765 120.009C55.376 119.808 55.376 119.508 55.5765 119.308L56.6792 118.207C56.8797 118.007 57.1805 118.007 57.381 118.207C57.5815 118.407 57.5815 118.707 57.381 118.908L56.2782 120.009C56.0777 120.109 55.9775 120.109 55.8772 120.109Z" fill="#020203"/>
+<path d="M48.3585 127.616C48.2583 127.616 48.158 127.616 48.0578 127.515C47.8573 127.315 47.8573 127.015 48.0578 126.815L49.1605 125.714C49.361 125.514 49.6617 125.514 49.8622 125.714C50.0627 125.914 50.0627 126.214 49.8622 126.414L48.7595 127.515C48.6592 127.616 48.4588 127.616 48.3585 127.616Z" fill="#020203"/>
+<path d="M56.98 127.616C56.8797 127.616 56.7795 127.616 56.6792 127.515L55.5765 126.414C55.376 126.214 55.376 125.914 55.5765 125.714C55.777 125.514 56.0777 125.514 56.2782 125.714L57.381 126.815C57.5815 127.015 57.5815 127.315 57.381 127.515C57.1805 127.616 57.0802 127.616 56.98 127.616Z" fill="#020203"/>
+<path d="M49.4612 120.109C49.361 120.109 49.2607 120.109 49.1605 120.009L48.0578 118.908C47.8573 118.707 47.8573 118.407 48.0578 118.207C48.2583 118.007 48.559 118.007 48.7595 118.207L49.8622 119.308C50.0627 119.508 50.0627 119.808 49.8622 120.009C49.6617 120.109 49.5615 120.109 49.4612 120.109Z" fill="#020203"/>
+<path d="M79.1351 171.955H75.7267" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M88.4583 99.6907V105.796" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M89.8618 100.892V104.695" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M91.3656 101.993V103.494" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M50.0627 152.938V158.843" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M47.2558 153.739L50.0628 148.934L52.8698 153.739H47.2558Z" fill="black"/>
+<path d="M56.8797 182.864H43.346C41.742 182.864 40.4388 181.563 40.4388 179.962V162.146C40.4388 160.545 41.742 159.243 43.346 159.243H56.8797C58.4837 159.243 59.7869 160.545 59.7869 162.146V179.962C59.7869 181.563 58.4837 182.864 56.8797 182.864Z" stroke="black" stroke-width="0.75" stroke-miterlimit="10"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="5.6841" font-weight="bold" letter-spacing="0em"><tspan x="42.5973" y="166.713">LM35</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="4.6326" font-weight="bold" letter-spacing="0em"><tspan x="43.8083" y="181.878">VOUT</tspan></text>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="4.6326" font-weight="bold" letter-spacing="0em"><tspan x="65.1358" y="277.251">5V</tspan></text>
+<path d="M50.0627 182.865V188.67" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M50.0627 197.678V201.381" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M79.1351 201.381H50.0627" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M75.7267 227.304H67.3057" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M69.9122 241.316H67.3057" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M57.2807 219.497H41.9425" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M57.2807 248.122H54.4738" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M44.6493 248.122H41.9425" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M69.9122 241.316V247.522" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M75.7267 227.304V256.73" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M57.2807 219.497V228.105" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M41.9425 219.497V228.905" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M57.2807 239.515V248.123" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M41.9425 238.714V248.122" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M60.6892 228.105V239.515" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M59.2857 228.105V239.515" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M53.371 228.805L57.2807 239.515" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M67.3057 241.316C64.8997 241.316 62.8947 240.316 62.8947 239.014C62.8947 237.713 64.8997 236.712 67.3057 236.712V236.612C64.8997 236.612 62.8947 235.611 62.8947 234.31C62.8947 233.009 64.8997 232.008 67.3057 232.008V231.908C64.8997 231.908 62.8947 230.907 62.8947 229.606C62.8947 228.305 64.8997 227.304 67.3057 227.304" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M57.2807 228.905C57.7237 228.905 58.0827 228.547 58.0827 228.105C58.0827 227.662 57.7237 227.304 57.2807 227.304C56.8378 227.304 56.4787 227.662 56.4787 228.105C56.4787 228.547 56.8378 228.905 57.2807 228.905Z" fill="black"/>
+<path d="M57.2807 240.316C57.7237 240.316 58.0827 239.957 58.0827 239.515C58.0827 239.073 57.7237 238.714 57.2807 238.714C56.8378 238.714 56.4787 239.073 56.4787 239.515C56.4787 239.957 56.8378 240.316 57.2807 240.316Z" fill="black"/>
+<path d="M49.5615 253.027C52.2745 253.027 54.4738 250.831 54.4738 248.122C54.4738 245.414 52.2745 243.218 49.5615 243.218C46.8486 243.218 44.6493 245.414 44.6493 248.122C44.6493 250.831 46.8486 253.027 49.5615 253.027Z" fill="black"/>
+<path d="M41.9425 238.714C44.6555 238.714 46.8548 236.518 46.8548 233.81C46.8548 231.101 44.6555 228.905 41.9425 228.905C39.2296 228.905 37.0303 231.101 37.0303 233.81C37.0303 236.518 39.2296 238.714 41.9425 238.714Z" fill="black"/>
+<path d="M41.9425 231.407C41.6418 231.207 41.341 231.107 40.9401 231.107C40.0378 231.107 39.2358 231.808 39.2358 232.809C39.2358 233.109 39.3361 233.509 39.5366 233.709C39.8373 233.209 40.3386 232.909 40.9401 232.909C41.0403 232.909 41.0403 232.909 41.1406 232.909C41.4413 233.009 41.742 233.309 41.742 233.609C41.742 234.01 41.5415 234.31 41.1406 234.41C41.0403 234.41 41.0403 234.41 40.9401 234.41C40.3386 234.41 39.8373 234.11 39.5366 233.609C39.3361 233.91 39.2358 234.21 39.2358 234.51C39.2358 235.411 39.9376 236.212 40.9401 236.212C41.341 236.212 41.6418 236.112 41.9425 235.911" stroke="white" stroke-width="0.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M41.9425 228.905V231.407" stroke="white" stroke-width="0.5" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M41.9425 236.011V238.714" stroke="white" stroke-width="0.5" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M34.9251 234.309H33.4213C33.1206 234.309 32.9201 234.109 32.9201 233.809C32.9201 233.509 33.1206 233.309 33.4213 233.309H34.9251C35.2258 233.309 35.4263 233.509 35.4263 233.809C35.4263 234.109 35.1256 234.309 34.9251 234.309Z" fill="#020203"/>
+<path d="M35.1256 238.514C35.0253 238.514 34.9251 238.514 34.8248 238.414C34.6243 238.214 34.6243 237.913 34.8248 237.713L35.9276 236.612C36.1281 236.412 36.4288 236.412 36.6293 236.612C36.8298 236.812 36.8298 237.113 36.6293 237.313L35.5266 238.414C35.4263 238.514 35.2258 238.514 35.1256 238.514Z" fill="#020203"/>
+<path d="M36.2283 231.107C36.1281 231.107 36.0278 231.107 35.9276 231.007L34.8248 229.906C34.6243 229.706 34.6243 229.406 34.8248 229.206C35.0253 229.005 35.3261 229.005 35.5266 229.206L36.6293 230.307C36.8298 230.507 36.8298 230.807 36.6293 231.007C36.4288 231.007 36.3286 231.107 36.2283 231.107Z" fill="#020203"/>
+<path d="M49.4613 250.725C48.6593 250.725 48.0578 250.124 48.0578 249.423C48.0578 248.723 48.6593 248.122 49.4613 248.122" stroke="white" stroke-width="0.5" stroke-miterlimit="10"/>
+<path d="M49.4613 245.52C50.2633 245.52 50.8648 246.121 50.8648 246.821C50.8648 247.522 50.2633 248.122 49.4613 248.122" stroke="white" stroke-width="0.5" stroke-miterlimit="10"/>
+<path d="M79.1351 256.73H75.7267" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M73.0199 247.522H66.9047" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M71.8169 248.923H68.0074" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M70.7142 250.425H69.1102" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M56.8797 275.947C60.7 275.947 63.797 272.855 63.797 269.041C63.797 265.227 60.7 262.135 56.8797 262.135C53.0595 262.135 49.9625 265.227 49.9625 269.041C49.9625 272.855 53.0595 275.947 56.8797 275.947Z" fill="black"/>
+<path d="M54.574 266.539C55.8772 266.539 56.8797 267.54 56.8797 268.841V269.041H52.569C52.4687 269.041 52.3685 268.941 52.3685 268.841C52.2682 267.54 53.2707 266.539 54.574 266.539Z" stroke="white" stroke-width="0.5" stroke-miterlimit="10"/>
+<path d="M59.2857 266.739C59.2857 268.04 58.2832 269.041 56.9799 269.041H56.7794V264.737C56.7794 264.637 56.8797 264.537 56.9799 264.537C58.2832 264.537 59.2857 265.538 59.2857 266.739Z" stroke="white" stroke-width="0.5" stroke-miterlimit="10"/>
+<path d="M59.0852 271.543C57.7819 271.543 56.7794 270.542 56.7794 269.241V269.041H61.1904C61.2907 269.041 61.3909 269.141 61.3909 269.241C61.3909 270.442 60.3884 271.543 59.0852 271.543Z" stroke="white" stroke-width="0.5" stroke-miterlimit="10"/>
+<path d="M54.3735 271.343C54.3735 270.042 55.376 269.041 56.6792 269.041H56.8797V273.345C56.8797 273.445 56.7795 273.545 56.6792 273.545C55.376 273.545 54.3735 272.544 54.3735 271.343Z" stroke="white" stroke-width="0.5" stroke-miterlimit="10"/>
+<path d="M56.8797 275.947V282.153" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M61.792 282.153H51.8672" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M59.8872 284.254H53.772" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M58.0827 286.356H55.5765" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M79.1351 269.041H63.7969" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M189.309 188.97H188.106" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M189.309 153.238H121.541" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M191.415 151.437H125.15" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M193.52 149.535H128.759" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M191.415 195.176H188.106" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M193.52 201.281H188.106" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M189.309 153.238V188.97" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M191.415 151.437V195.175" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M193.52 149.535V201.281" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M197.831 256.73H188.006" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M197.831 146.032H153.119" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M199.936 144.23H156.728" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M202.041 142.329H160.337" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M204.146 140.627H164.047" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M146.403 109.399H135.576" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M199.936 262.835H188.006" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M202.041 268.941H188.006" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M204.146 275.146H188.006" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M197.831 146.032V256.73" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M199.936 144.23V262.835" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M202.041 142.329V268.941" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M204.146 140.627V275.146" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M128.759 105.896V149.535" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M125.15 105.896V151.437" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M121.541 105.896V153.238" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M160.337 105.896V142.329" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M164.047 105.896V140.627" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M156.728 105.896V144.23" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M153.119 105.896V146.032" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M142.794 105.796V109.299" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M146.403 105.796V109.299" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M139.185 105.796V109.399" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M135.475 105.796V109.399" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M120.594 102.278V105.882H122.399V102.278H120.594Z" fill="black"/>
+<path d="M124.228 102.304V105.907H126.033V102.304H124.228Z" fill="black"/>
+<path d="M127.863 102.329V105.932H129.667V102.329H127.863Z" fill="black"/>
+<path d="M134.581 102.33V105.933H136.385V102.33H134.581Z" fill="black"/>
+<path d="M138.215 102.356V105.959H140.019V102.356H138.215Z" fill="black"/>
+<path d="M141.849 102.281V105.884H143.654V102.281H141.849Z" fill="black"/>
+<path d="M145.484 102.306V105.909H147.288V102.306H145.484Z" fill="black"/>
+<path d="M152.202 102.307V105.91H154.006V102.307H152.202Z" fill="black"/>
+<path d="M155.836 102.332V105.936H157.64V102.332H155.836Z" fill="black"/>
+<path d="M159.47 102.358V105.961H161.275V102.358H159.47Z" fill="black"/>
+<path d="M163.104 102.283V105.886H164.909V102.283H163.104Z" fill="black"/>
+<path d="M106.607 102.326V105.93H108.412V102.326H106.607Z" fill="black"/>
+<path d="M110.242 102.352V105.955H112.046V102.352H110.242Z" fill="black"/>
+<path d="M113.876 102.277V105.88H115.681V102.277H113.876Z" fill="black"/>
+<path d="M167.756 71.4656V97.889C167.756 99.4904 166.453 100.692 164.949 100.692H106.704C105.1 100.692 103.897 99.3904 103.897 97.889V71.4656C103.897 69.8641 105.2 68.6631 106.704 68.6631H164.949C166.453 68.6631 167.756 69.9642 167.756 71.4656Z" stroke="black" stroke-miterlimit="10"/>
+<path d="M165.149 73.4673V88.6808C165.149 89.5816 164.347 90.3823 163.445 90.3823H108.107C107.205 90.3823 106.403 89.5816 106.403 88.6808V73.4673C106.403 72.5665 107.205 71.7658 108.107 71.7658H163.445C164.347 71.6657 165.149 72.4664 165.149 73.4673Z" stroke="black" stroke-miterlimit="10"/>
+<path d="M135.475 110.2C135.918 110.2 136.277 109.842 136.277 109.399C136.277 108.957 135.918 108.599 135.475 108.599C135.032 108.599 134.673 108.957 134.673 109.399C134.673 109.842 135.032 110.2 135.475 110.2Z" fill="black"/>
+<path d="M139.084 110.2C139.527 110.2 139.886 109.842 139.886 109.399C139.886 108.957 139.527 108.599 139.084 108.599C138.641 108.599 138.282 108.957 138.282 109.399C138.282 109.842 138.641 110.2 139.084 110.2Z" fill="black"/>
+<path d="M142.794 110.2C143.237 110.2 143.596 109.842 143.596 109.399C143.596 108.957 143.237 108.599 142.794 108.599C142.351 108.599 141.992 108.957 141.992 109.399C141.992 109.842 142.351 110.2 142.794 110.2Z" fill="black"/>
+<path d="M146.403 110.2C146.846 110.2 147.205 109.842 147.205 109.399C147.205 108.957 146.846 108.599 146.403 108.599C145.96 108.599 145.601 108.957 145.601 109.399C145.601 109.842 145.96 110.2 146.403 110.2Z" fill="black"/>
+<path d="M135.475 109.299V114.904" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M138.583 114.904H132.468" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M137.38 116.406H133.571" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M136.277 117.807H134.673" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M114.824 109.399H107.506" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M114.824 105.796V109.299" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M111.115 105.796V109.399" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M107.506 105.796V109.399" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M107.506 110.2C107.949 110.2 108.308 109.842 108.308 109.399C108.308 108.957 107.949 108.599 107.506 108.599C107.063 108.599 106.704 108.957 106.704 109.399C106.704 109.842 107.063 110.2 107.506 110.2Z" fill="black"/>
+<path d="M114.824 110.2C115.267 110.2 115.626 109.842 115.626 109.399C115.626 108.957 115.267 108.599 114.824 108.599C114.381 108.599 114.022 108.957 114.022 109.399C114.022 109.842 114.381 110.2 114.824 110.2Z" fill="black"/>
+<path d="M107.506 109.399V124.313" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M110.614 124.312H104.398" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M109.41 125.814H105.601" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M108.308 127.315H106.704" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M111.115 115.805V109.9" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M114.022 115.004L111.115 119.909L108.308 115.004H114.022Z" fill="black"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="5.6841" font-weight="bold" letter-spacing="0em"><tspan x="108.95" y="88.1374">LCD LM016L</tspan></text>
+<text transform="translate(105.391 99.2161) rotate(-90)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="3.0193" font-weight="bold" letter-spacing="0em"><tspan x="0" y="3.13224">VSS</tspan></text>
+<text transform="translate(109.025 99.2161) rotate(-90)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="3.0193" font-weight="bold" letter-spacing="0em"><tspan x="0" y="3.13224">VDD</tspan></text>
+<text transform="translate(112.844 99.2161) rotate(-90)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="3.0193" font-weight="bold" letter-spacing="0em"><tspan x="0" y="3.13224">VEE</tspan></text>
+<text transform="translate(119.668 99.2161) rotate(-90)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="3.0193" font-weight="bold" letter-spacing="0em"><tspan x="0" y="3.13224">RS</tspan></text>
+<text transform="translate(123.011 99.2161) rotate(-90)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="3.0193" font-weight="bold" letter-spacing="0em"><tspan x="0" y="3.13224">RW</tspan></text>
+<text transform="translate(126.645 99.2161) rotate(-90)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="3.0193" font-weight="bold" letter-spacing="0em"><tspan x="0" y="3.13224">E</tspan></text>
+<text transform="translate(133.54 99.2161) rotate(-90)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="3.0193" font-weight="bold" letter-spacing="0em"><tspan x="0" y="3.13224">D0</tspan></text>
+<text transform="translate(137.201 99.2161) rotate(-90)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="3.0193" font-weight="bold" letter-spacing="0em"><tspan x="0" y="3.13224">D1</tspan></text>
+<text transform="translate(140.862 99.2161) rotate(-90)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="3.0193" font-weight="bold" letter-spacing="0em"><tspan x="0" y="3.13224">D2</tspan></text>
+<text transform="translate(144.521 99.2161) rotate(-90)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="3.0193" font-weight="bold" letter-spacing="0em"><tspan x="0" y="3.13224">D3</tspan></text>
+<text transform="translate(151.14 99.2161) rotate(-90)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="3.0193" font-weight="bold" letter-spacing="0em"><tspan x="0" y="3.13224">D4</tspan></text>
+<text transform="translate(154.8 99.2161) rotate(-90)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="3.0193" font-weight="bold" letter-spacing="0em"><tspan x="0" y="3.13224">D5</tspan></text>
+<text transform="translate(158.461 99.2161) rotate(-90)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="3.0193" font-weight="bold" letter-spacing="0em"><tspan x="0" y="3.13224">D6</tspan></text>
+<text transform="translate(162.12 99.2161) rotate(-90)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="3.0193" font-weight="bold" letter-spacing="0em"><tspan x="0" y="3.13224">D7</tspan></text>
+<path d="M208.357 212.791H188.106" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M210.462 218.896H188.106" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M208.357 137.124V212.791" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M210.462 135.422V218.896" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M208.357 137.124H180.788" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M210.462 135.422H184.397" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M207.354 133.621H188.006" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M202.041 131.819H191.615" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M195.324 123.412H177.179C176.277 123.412 175.475 122.611 175.475 121.71V87.1795C175.475 86.2787 176.277 85.478 177.179 85.478H195.324C196.227 85.478 197.029 86.2787 197.029 87.1795V121.61C197.029 122.611 196.227 123.412 195.324 123.412Z" stroke="black" stroke-miterlimit="10"/>
+<path d="M179.829 124.918L179.829 128.521L181.633 128.521L181.633 124.918L179.829 124.918Z" fill="black"/>
+<path d="M183.463 124.943L183.463 128.547L185.268 128.547L185.268 124.943L183.463 124.943Z" fill="black"/>
+<path d="M187.097 124.969L187.097 128.572L188.902 128.572L188.902 124.969L187.097 124.969Z" fill="black"/>
+<path d="M190.732 124.994L190.732 128.597L192.536 128.597L192.536 124.994L190.732 124.994Z" fill="black"/>
+<text transform="translate(185.914 121.574) rotate(-90)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="3.0193" font-weight="bold" letter-spacing="0em"><tspan x="0" y="3.13224">VSS</tspan></text>
+<text transform="translate(189.575 121.574) rotate(-90)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="3.0193" font-weight="bold" letter-spacing="0em"><tspan x="0" y="3.13224">VCC</tspan></text>
+<text transform="translate(178.787 121.574) rotate(-90)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="3.0193" font-weight="bold" letter-spacing="0em"><tspan x="0" y="3.13224">TX</tspan></text>
+<text transform="translate(182.449 121.574) rotate(-90)" fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="3.0193" font-weight="bold" letter-spacing="0em"><tspan x="0" y="3.13224">RX</tspan></text>
+<path d="M180.788 137.124V128.516" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M184.397 135.423V128.516" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M188.006 133.521V128.516" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M191.615 131.819V128.516" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M207.354 133.521V126.715" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<text fill="black" xml:space="preserve" style="white-space: pre" font-family="Helvetica Now Display" font-size="5.6841" font-weight="bold" letter-spacing="0em"><tspan x="177.525" y="92.8144">HC-05</tspan></text>
+<path d="M204.347 126.414H210.462" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M205.45 124.913H209.259" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M206.653 123.512H208.156" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M202.041 118.007V131.819" stroke="black" stroke-width="0.75" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M199.234 118.808L202.041 113.903L204.848 118.808H199.234Z" fill="black"/>
+<path d="M191.276 324.788H187.868L182.254 318.082H185.662L191.276 324.788Z" fill="#415BA6"/>
+<path d="M178.745 324.788H179.747L184.86 318.082H183.858L178.745 324.788Z" fill="#415BA6"/>
+<path d="M196.092 326.256V317H195V326.256H196.092Z" fill="#415BA6"/>
+<path d="M200.939 319.392C200.042 319.392 199.34 319.782 198.833 320.549V319.548H197.845V326.256H198.885V322.46C198.885 321.771 199.067 321.238 199.444 320.874C199.808 320.51 200.237 320.328 200.731 320.328C201.745 320.328 202.265 320.835 202.265 321.823V326.256H203.305V321.719C203.305 320.991 203.097 320.419 202.681 320.003C202.265 319.6 201.68 319.392 200.939 319.392Z" fill="#415BA6"/>
+<path d="M207.68 319.548H206.302V317.65H205.262V319.548H204.157V320.458H205.262V324.904C205.262 325.84 205.821 326.295 206.939 326.295C207.147 326.295 207.394 326.282 207.68 326.256L207.306 325.385H207.069C206.549 325.385 206.302 325.203 206.302 324.813V320.458H207.68V319.548Z" fill="#415BA6"/>
+<path d="M214.632 322.902C214.632 321.901 214.359 321.069 213.813 320.393C213.267 319.73 212.513 319.392 211.551 319.392C210.615 319.392 209.874 319.717 209.315 320.354C208.743 321.004 208.457 321.849 208.457 322.902C208.457 323.981 208.743 324.839 209.328 325.463C209.9 326.1 210.641 326.412 211.577 326.412C212.331 326.412 212.955 326.217 213.449 325.827C213.943 325.437 214.281 324.891 214.463 324.215H213.384C213.124 325.047 212.526 325.463 211.603 325.463C210.979 325.463 210.498 325.281 210.147 324.917C209.783 324.553 209.588 323.994 209.536 323.266H214.632V322.902ZM211.551 320.341C212.11 320.341 212.565 320.536 212.916 320.9C213.254 321.264 213.462 321.745 213.514 322.33H209.562C209.64 321.693 209.861 321.199 210.212 320.861C210.55 320.523 211.005 320.341 211.551 320.341Z" fill="#415BA6"/>
+<path d="M219.142 319.444C218.154 319.444 217.426 319.873 216.984 320.731V319.548H215.996V326.256H217.036V322.434C217.036 321.81 217.218 321.316 217.608 320.978C217.998 320.64 218.531 320.458 219.233 320.458H219.493V319.457C219.428 319.457 219.311 319.444 219.142 319.444Z" fill="#415BA6"/>
+<path d="M221.635 326.256V319.548H220.595V326.256H221.635Z" fill="#415BA6"/>
+<path d="M228.813 325.411C228.566 325.411 228.449 325.307 228.449 325.086V321.342C228.449 320.042 227.604 319.392 225.927 319.392C224.185 319.392 223.275 320.133 223.197 321.615H224.237C224.263 321.121 224.406 320.783 224.666 320.588C224.926 320.393 225.342 320.289 225.927 320.289C226.473 320.289 226.85 320.38 227.084 320.536C227.318 320.705 227.435 320.978 227.435 321.342C227.435 321.888 227.084 322.187 226.382 322.265L225.42 322.369C223.756 322.551 222.937 323.24 222.937 324.449C222.937 325.073 223.145 325.567 223.561 325.905C223.977 326.243 224.562 326.412 225.303 326.412C226.291 326.412 227.019 326.061 227.487 325.333C227.539 325.983 227.916 326.295 228.618 326.295C228.826 326.295 229.008 326.282 229.19 326.256L228.96 325.411H228.813ZM225.355 325.528C224.913 325.528 224.575 325.437 224.354 325.242C224.12 325.047 224.016 324.774 224.016 324.423C224.016 324.072 224.133 323.799 224.367 323.604C224.601 323.422 225.004 323.292 225.576 323.214L226.551 323.097C226.941 323.058 227.24 322.967 227.435 322.811V323.604C227.435 324.228 227.227 324.696 226.811 325.021C226.395 325.359 225.901 325.528 225.355 325.528Z" fill="#415BA6"/>
+</svg>
