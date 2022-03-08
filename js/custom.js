@@ -140,7 +140,7 @@
 		$(".animsition").animsition({	  
 			inClass               :   'fade-in-down-sm',
 			outClass              :   'fade-out-down-sm',
-			inDuration            :    600,
+			inDuration            :    400,
 			outDuration           :    400,
 			linkElement           :   '.animsition-link', 
 			// e.g. linkElement   :   'a:not([target="_blank"]):not([href^=#])'
@@ -154,7 +154,7 @@
 			//"unSupportCss" option allows you to disable the "animsition" in case the css property in the array is not supported by your browser. 
 			//The default setting is to disable the "animsition" in a browser that does not support "animation-duration".
 			
-			overlay               :   false,
+			overlay               :   true,
 			
 			overlayClass          :   'animsition-overlay-slide',
 			overlayParentElement  :   'body'
