@@ -90,7 +90,7 @@ mark{
 	font-weight: 500;
 	font-size: 24px;
 	line-height: 170%;
-    margin: 3vh;
+    margin: 2vh;
 }
 .lead-q {
 	font-size: 20px;
@@ -281,8 +281,8 @@ mark{
 }
 		@media screen and (max-width: 767px) {
 			.hero-image {
-				margin: 5vh 0 1vh 5vh;
-				padding-left: 15px;
+				margin: auto;
+    			padding: 0 15px 0 15px;
 			}	
 		}	
 .hero-image img {
