@@ -482,7 +482,7 @@ a:hover {
 }
 .logo-wrap a {
 	cursor: pointer;
-	color: white;
+	color: white !important;
 }
 .logo-wrap img{
 	height:20px;
