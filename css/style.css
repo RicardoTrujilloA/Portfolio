@@ -482,6 +482,7 @@ a:hover {
 }
 .logo-wrap a {
 	cursor: pointer;
+	color: white;
 }
 .logo-wrap img{
 	height:20px;
@@ -2996,7 +2997,7 @@ figure.vimeo a img, figure.youtube a img {
 		-webkit-transform: translate3d(0,0,0);
 		transform: translate3d(0,0,0);
 		margin-top: 50px;
-	}	
+	}
 	.section-title-wrap h1{
 		font-size: 6rem;		
 	}
@@ -3063,6 +3064,9 @@ figure.vimeo a img, figure.youtube a img {
 	.section-title-wrap h1{
 		font-size: 3.5rem;		
 	}
+	.section-title-wrap p{
+		font-size: 16px;	
+	}
 	.case-study-wrapper .case-study-name {
 		font-size: 5vh;
 		margin-left: -20px;
@@ -3102,9 +3106,11 @@ figure.vimeo a img, figure.youtube a img {
 	.padding-top-bottom-small {
 		padding-top: 0px;
 	}
-
-@media (max-width: 360px){
-	.section-title-wrap h1{
-		font-size: 4rem;		
+	.padding-page-top{
+		padding-top: 117px
+	}
+	#home-title-space{
+		padding-top: 95px !important;
+		padding-bottom: -0 !important;
 	}
 }
