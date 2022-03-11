@@ -93,7 +93,8 @@ mark{
     margin: 2vh;
 }
 .lead-q {
-	font-size: 20px;
+	font-weight: 300;
+	font-size: 18px;
 	line-height: 170%;
 	margin: 0 2vh 2vh 2vh;
 	color: rgb(230, 230, 230);
@@ -106,9 +107,10 @@ mark{
 }
 .lead-q a:hover{
 	color: #70ACFF;
+	text-decoration: underline;
 }
 .lead-q b{
-	font-size: 24px;
+	font-size: 22px;
 	font-weight: 600;
 	color: #fff;
 }
