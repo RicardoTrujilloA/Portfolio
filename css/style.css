@@ -533,7 +533,7 @@ a:hover {
 .cd-header.is-fixed {
 	position: fixed;
 	top: -101px;
-	background-color: rgba(21, 21, 21, 0.96);
+	background-color: rgba(21, 21, 21, 0);
 	-webkit-transition: -webkit-transform 0.3s;
 	-moz-transition: -moz-transform 0.3s;
 	transition: transform 0.3s;
