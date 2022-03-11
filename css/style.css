@@ -2011,14 +2011,14 @@ body.nav-active .nav__list-item:nth-child(10) {
     overflow: hidden;
     position: relative;
     background-color: none;
-	width: 285px;
- 	height: 570px;
+	width: 305px;
+ 	height: 620px;
 }
 .iframe-wrap iframe {
     width: 340% !important;
     height: 340% !important;
-    -webkit-transform: scale(.65);
-    transform: scale(.65);
+    -webkit-transform: scale(.7);
+    transform: scale(.7);
     -webkit-transform-origin: 0 0;
     transform-origin: 0 0;
 }
@@ -3086,8 +3086,8 @@ figure.vimeo a img, figure.youtube a img {
 	.iframe-wrap iframe {
 		width: 340% !important;
 		height: 340% !important;
-		-webkit-transform: scale(.6);
-		transform: scale(.6);
+		-webkit-transform: scale(.65);
+		transform: scale(.65);
 		-webkit-transform-origin: 0 0;
 		transform-origin: 0 0;
 	}
