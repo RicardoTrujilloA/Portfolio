@@ -2011,6 +2011,8 @@ body.nav-active .nav__list-item:nth-child(10) {
     overflow: hidden;
     position: relative;
     background-color: none;
+	width: 285px;
+ 	height: 575px;
 }
 .iframe-wrap iframe {
     width: 340% !important;
@@ -2970,10 +2972,6 @@ figure.vimeo a img, figure.youtube a img {
 		font-size: 60px;
 		line-height: 40px;
 	}
-	.iframe-wrap {
-		width: 261px;
-    	height: 520px;
-	}
 }
 
 
@@ -3018,10 +3016,6 @@ figure.vimeo a img, figure.youtube a img {
 	}
 	.cursor {
 		display: none;
-	}
-	.iframe-wrap {
-		width: 285px;
-		height: 575px;
 	}
 }
 
@@ -3090,8 +3084,19 @@ figure.vimeo a img, figure.youtube a img {
 		justify-content:center;
 	}
 	.iframe-wrap {
-		width: 282px;
-		height: 570px;
+		overflow: hidden;
+		position: relative;
+		background-color: none;
+		width: 235px;
+		 height: 475px;
+	}
+	.iframe-wrap iframe {
+		width: 340% !important;
+		height: 340% !important;
+		-webkit-transform: scale(.5);
+		transform: scale(.5);
+		-webkit-transform-origin: 0 0;
+		transform-origin: 0 0;
 	}
 	.nopadding{
 		padding: 0 0 0 0 !important;
