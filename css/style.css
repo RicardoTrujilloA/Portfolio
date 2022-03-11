@@ -2012,7 +2012,7 @@ body.nav-active .nav__list-item:nth-child(10) {
     position: relative;
     background-color: none;
 	width: 285px;
- 	height: 560px;
+ 	height: 570px;
 }
 .iframe-wrap iframe {
     width: 340% !important;
@@ -3083,18 +3083,11 @@ figure.vimeo a img, figure.youtube a img {
 		float: none;
 		justify-content:center;
 	}
-	.iframe-wrap {
-		overflow: hidden;
-		position: relative;
-		background-color: none;
-		width: 269px;
-		height: 530px;
-	}
 	.iframe-wrap iframe {
 		width: 340% !important;
 		height: 340% !important;
-		-webkit-transform: scale(.61);
-		transform: scale(.61);
+		-webkit-transform: scale(.6);
+		transform: scale(.6);
 		-webkit-transform-origin: 0 0;
 		transform-origin: 0 0;
 	}
