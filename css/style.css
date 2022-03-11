@@ -419,10 +419,9 @@ mark{
 ================================================== */
 
 * {
-	cursor: none;
+	
 }
 .cursor {
-	--size: 6px;
 	height: var(--size);
 	width:  var(--size);
 	border-radius: 50%;
@@ -432,21 +431,20 @@ mark{
 	pointer-events: none;
 }
 .cursor.cursor-shadow {
-	background-color: transparent;
-	border: 2px solid #fff;
+	background-color: white;
 	--size: 30px;
 	transition: top .2s, left .2s,
               width .2s, height .2s,
               background-color .2s, border-color 0.2s;
 	transition-timing-function: ease-out;
+	mix-blend-mode: difference;
 }
 .cursor.cursor-dot {
 	background: #fff;
 	transition: width .2s, height .2s;
 }
 .cursor-shadow.active {
-	--size: 80px;
-	border-color: rgba(255,255,255, 0);
+	--size: 60px;
 	background-color: rgba(255,255,255,.1);
 }
 .cursor-dot.active {
