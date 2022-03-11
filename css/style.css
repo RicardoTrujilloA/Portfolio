@@ -469,13 +469,13 @@ a:hover {
 } 
 .header-wrapper{
     position: relative;
-	width: calc(100% - 120px);
-	margin-left: 60px;
+	width: calc(100% - 100px);
+	margin-left: 50px;
 } 
 .logo-wrap {
 	font-size: 25px;
 	font-weight: 600;
-	letter-spacing: -0.3px;
+	letter-spacing: -0.2px;
 	position: absolute;
 	display:block;
 	top: 30px;
@@ -532,7 +532,7 @@ a:hover {
 }
 .cd-header.is-fixed {
 	position: fixed;
-	top: -100px;
+	top: -101px;
 	background-color: rgba(21, 21, 21, 0);
 	-webkit-transition: -webkit-transform 0.3s;
 	-moz-transition: -moz-transform 0.3s;
