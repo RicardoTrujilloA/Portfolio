@@ -3093,8 +3093,8 @@ figure.vimeo a img, figure.youtube a img {
 	.iframe-wrap iframe {
 		width: 340% !important;
 		height: 340% !important;
-		-webkit-transform: scale(.56);
-		transform: scale(.56);
+		-webkit-transform: scale(.61);
+		transform: scale(.61);
 		-webkit-transform-origin: 0 0;
 		transform-origin: 0 0;
 	}
