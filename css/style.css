@@ -61,7 +61,7 @@ h6, .h6 {
 }
 
 body::-webkit-scrollbar {
-	width: 5px;
+	width: 7px;
 	}
 	
 	body::-webkit-scrollbar-thumb {
